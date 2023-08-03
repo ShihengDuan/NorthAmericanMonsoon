@@ -1,0 +1,3 @@
+GPInteract.png is from Features_freq_barplot.ipynb
+Freq-single.png is from Features_freq_barplot.ipynb
+UTT-MCS-GenPareto.png is from Bootstrap.ipynb
